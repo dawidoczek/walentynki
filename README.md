@@ -1,5 +1,7 @@
 # Walentynka
 
+https://github.com/user-attachments/assets/07137c7b-9cbc-4d4d-86d9-74908ea73331
+
 Interaktywna aplikacja walentynkowa zbudowana w **Next.js**.  
 Projekt prowadzi użytkownika przez 3 etapy niespodzianki:
 
@@ -43,6 +45,3 @@ pnpm lint    # lintowanie
 ## 📝 Uwagi
 
 To projekt bardzo osobisty więc powodzenia w zmienianiu po kolei
-
-https://github.com/user-attachments/assets/07137c7b-9cbc-4d4d-86d9-74908ea73331
-
